@@ -1,12 +1,14 @@
 # Claude Instructions
 
-Project: AI Capstone
+## Project
+AI Capstone
 
-Tech Stack:
+## Tech Stack
 - Node.js
 - Git
 
-Rules:
-- Explain logic before code.
-- Use clean code.
+## Guidelines
+- Explain the logic before writing code.
+- Use clear and readable code.
 - Follow Conventional Commits.
+- Help improve the README and documentation.
